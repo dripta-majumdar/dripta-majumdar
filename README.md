@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/driptamajumdar" target="blank"><img src="https://img.shields.io/twitter/follow/driptamajumdar?logo=twitter&style=for-the-badge" alt="driptamajumdar" /></a> </p>
 
-- 🌱 I’m currently learning **React.js and other Web development technologies**
+- 🌱 I’m currently learning **React.js, SpringBoot and other Web development technologies**
 
 - 📫 How to reach me **driptamajumdar3002@gmail.com**
 
